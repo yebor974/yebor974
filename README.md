@@ -24,6 +24,11 @@ I'm Julien (aka yebor974), a passionate software engineer from Reunion Island, F
 - [Filament Terms Guard](https://julienboyer.re/plugins/filament-terms-guard/readme)
 - [Filament Dynamic Mail Manager](https://julienboyer.re/plugins/filament-dyn-mail-manager/readme)
 
+## Latest articles 📝 
+
+- 2024-07-09 - [Filament : How to add terms and conditions checkbox on filament registration page](http://julienboyer.re/posts/how-to-add-terms-and-conditions-checkbox-on-filament-registration-page)
+- 2024-07-03 - [Filament : How to force renew password on first user login](https://julienboyer.re/posts/how-to-force-renew-password-on-first-user-login)
+
 ## How to Support Me
 
 [![GitHub Sponsors](https://img.shields.io/badge/sponsor-GitHub%20Sponsors-yellow?logo=github)](https://github.com/sponsors/yebor974)
