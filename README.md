@@ -33,22 +33,6 @@ I'm Julien (aka yebor974), a passionate software engineer from Reunion Island, F
 
 <a href="https://www.buymeacoffee.com/yebor974" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 144px !important;" ></a>
 
-[![GitHub Sponsors](https://img.shields.io/badge/sponsor-GitHub%20Sponsors-yellow?logo=github)](https://github.com/sponsors/yebor974)
-
-## Acknowledgements to My Sponsors
-
-### Supportive Sponsors
-
-[![Sponsor: Supportive Sponsor](https://img.shields.io/badge/Sponsor-Supportive%20Sponsor-blue?style=flat-square)](https://github.com/yebor974)
-
-### Top Sponsors
-
-[![Sponsor: Top Sponsor](https://img.shields.io/badge/Sponsor-Top%20Sponsor-green?style=flat-square)](https://github.com/yebor974)
-
-### Ultimate Sponsors
-
-[![Sponsor: Ultimate Sponsor](https://img.shields.io/badge/Sponsor-Ultimate%20Sponsor-orange?style=flat-square)](https://github.com/yebor974)
-
 ---
 
 Thank you for your support!
