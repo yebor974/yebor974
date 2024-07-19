@@ -26,7 +26,8 @@ I'm Julien (aka yebor974), a passionate software engineer from Reunion Island, F
 
 ## Latest articles 📝 
 
-- 2024-07-09 - [Filament : How to add terms and conditions checkbox on filament registration page](http://julienboyer.re/posts/how-to-add-terms-and-conditions-checkbox-on-filament-registration-page)
+- 2024-07-19 - [Freelance Life : Essential French Administrative Tools : Qonto and Indy](https://julienboyer.re/posts/essential-french-administrative-tools-for-freelancers-qonto-and-indy)
+- 2024-07-09 - [Filament : How to add terms and conditions checkbox on filament registration page](https://julienboyer.re/posts/how-to-add-terms-and-conditions-checkbox-on-filament-registration-page)
 - 2024-07-03 - [Filament : How to force renew password on first user login](https://julienboyer.re/posts/how-to-force-renew-password-on-first-user-login)
 
 ## How to Support Me
