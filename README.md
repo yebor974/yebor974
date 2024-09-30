@@ -26,6 +26,7 @@ I'm Julien (aka yebor974), a passionate software engineer from Reunion Island, F
 
 ## Latest articles 📝 
 
+- 2024-09-20 - [Freelance Life - My Innovation Tax Credit (CII) Accreditation](https://julienboyer.re/posts/my-innovation-tax-credit-cii-accreditation)
 - 2024-08-22 - [Filament : How to generate Terms and Conditions PDF and send it to user after consent](https://julienboyer.re/posts/how-to-generate-terms-and-conditions-pdf-and-send-it-to-user-after-consent)
 - 2024-07-26 - [Freelance Life - Optimizing Project Management: My Essential Tools](https://julienboyer.re/posts/optimizing-project-management-my-essential-tools)
 - 2024-07-19 - [Freelance Life : Essential French Administrative Tools : Qonto and Indy](https://julienboyer.re/posts/essential-french-administrative-tools-for-freelancers-qonto-and-indy)
