@@ -20,9 +20,9 @@ I'm Julien (aka yebor974), a passionate software engineer from Reunion Island, F
 
 ## My Projects
 
-- [Filament Renew Password Plugin](https://julienboyer.re/plugins/filament-renew-password/readme)
-- [Filament Terms Guard](https://julienboyer.re/plugins/filament-terms-guard/readme)
-- [Filament Dynamic Mail Manager](https://julienboyer.re/plugins/filament-dyn-mail-manager/readme)
+- [Filament Renew Password Plugin](https://julienboyer.re/plugins/filament-renew-password/readme): An open-source plugin under the MIT license that simplifies the password renewal process on Filament Panels. Compatible with multi-tenant and multi-guard setups.
+- [Filament Terms Guard](https://julienboyer.re/plugins/filament-terms-guard/readme): A plugin that allows managing Terms of Service (GCU).
+- [Filament Dynamic Mail Manager](https://julienboyer.re/plugins/filament-dyn-mail-manager/readme): A plugin to manage mailer configurations dynamically from the database. Extended default Laravel mail manager.
 
 ## Latest articles 📝 
 
