@@ -1,3 +1,5 @@
+[🇬🇧 English version](README.md)  |  [🇫🇷 Version française](README.fr.md)
+
 # 👋 Hi, I'm Julien (aka yebor974)
 
 🇷🇪 Software engineer based in Réunion Island, France  
@@ -48,7 +50,7 @@ I contribute actively to the open-source community by building **plugins that so
   A ready-to-use Laravel + Filament template with a preconfigured admin panel. Includes admin user invitations, temporary password flow with forced renewal, integrated Horizon, and a log viewer — ideal as a clean base for internal tools or admin backends.
 
 - 🧱 [**Filament Laravel Multipanel Starter**](https://filamentmastery.com/articles/laravel-filament-multipanel-starter-build-your-app-fast)  
-  An extended version of the backend starter that adds a separate "member" panel — perfect for building SaaS apps with distinct backend admin and member interfaces, authentication logic, and flexible membership-oriented flows.
+  An extended version of the backend starter that adds a separate "member" panel — perfect for building SaaS apps with distinct backend admin and member interfaces.
 
 ## 💡 Philosophy
 
