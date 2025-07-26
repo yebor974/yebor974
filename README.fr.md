@@ -46,10 +46,10 @@ Je contribue activement à la communauté open-source en développant des **plug
   Configure dynamiquement les mailers Laravel depuis la base de données.
 
 - 🧪 [**Filament Laravel Backend Starter**](https://filamentmastery.com/articles/laravel-filament-backend-starter-build-your-admin-panel-fast)  
-  Template prêt à l’emploi Laravel + Filament avec panneau admin préconfiguré. Invitations d’admin, mot de passe temporaire avec renouvellement forcé, Horizon et logs viewer intégrés — base propre pour outils internes ou backends admin.
+  Template prêt à l’emploi Laravel + Filament avec pannel admin préconfiguré. Invitations d’admin, mot de passe temporaire avec renouvellement forcé, Horizon et logs viewer intégrés — base propre pour outils internes ou backend admin.
 
 - 🧱 [**Filament Laravel Multipanel Starter**](https://filamentmastery.com/articles/laravel-filament-multipanel-starter-build-your-app-fast)  
-  Version étendue du backend starter avec ajout d’un panneau “membre” séparé — idéal pour apps SaaS avec interface backend admin et membre.
+  Version étendue du backend starter avec ajout d’un pannel “membre” séparé — idéal pour apps SaaS avec interface backend admin et membre.
 
 ## 💡 Ma philosophie
 
