@@ -8,7 +8,7 @@
 
 ## 🧠 À propos de moi
 
-Je suis un ingénieur logiciel passionné, avec une solide expérience en développement d’applications web, analyse métier et formation. Mon stack tourne autour de **Laravel**, **FilamentPHP** et des outils qui rendent le développement efficace, scalable et agréable.
+Je suis un ingénieur logiciel passionné, avec une solide expérience en développement d’applications web, analyse métier et formation. Ma stack tourne autour de **Laravel**, **FilamentPHP** et des outils qui rendent le développement efficace, scalable et agréable.
 
 Je contribue activement à la communauté open-source en développant des **plugins qui répondent à des besoins concrets** pour les développeurs Laravel et Filament.
 
